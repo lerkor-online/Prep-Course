@@ -57,7 +57,7 @@ function filter(array) {
   //Tu código:
   var newArraya = [];
   for( var i = 0 ; i < array.length ; i++){
-    if(array[i][0] === 'a' ){
+    if(array[i][0] === 'a'){
       newArraya.push(array[i]);
     }
   }
