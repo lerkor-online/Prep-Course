@@ -1,0 +1,11 @@
+Variables: es un espacio e memoria donde guardamos la información, a la que podemos obtener acceso.
+
+String: es una cadena de caracteres.
+
+Funciones: son código que nos permite hacer operaciones, para no repetirnos. 
+Los datos que se le envian a las funciones, se llamana argumentos.
+Y los datos que nos devuelven se llaman return.
+
+If: es un condiciones por el cual, dependiendo de la consulta puede ser verdadero o falso.
+
+Valores Boleanos: True es sinonimo de si o verdadero, False, sinonimo de No o Falso.
