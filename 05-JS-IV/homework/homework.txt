@@ -1,0 +1,11 @@
+Objetos: es una estructura de dato, pero a diferencia de los array, los objetos no tienen indice, sino propiedades.
+
+Propiedades: Es la clave o key por la que se accede al valor.
+
+Metodos: las funciones que utilizaremos en objetos, se llaman de esta forma.
+
+Bucle For In: es un blucle parecido al for , con la deferencia que nos permite recorrer un objeto.
+
+Notación de puntos: se ultiliza cuando conocemos el nombre de la propiedades.
+
+Notación de corchetes: se ultiliza cuando queremos acceder a un propiedad mediante un indice. 
