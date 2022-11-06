@@ -1,0 +1,5 @@
+Prototype: es un objeto que tiene un cronstructor por defecto.
+
+Constructor: es una palabra clave, una funcion, que le damos los argumentos para poder crear las clases.
+
+Clases: Son plantillas que creamos, para poder crear nuevos objetivos que compartes caracteristicas entre sí.
