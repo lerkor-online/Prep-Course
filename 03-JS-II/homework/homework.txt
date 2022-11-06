@@ -1,0 +1,5 @@
+for: nos permite hacer un recorrido, de principio a fin, e incrementando su indice en 1.
+
+&& : significa Y.
+|| : significa O.
+!: se aplica a una condicion para negarla.
